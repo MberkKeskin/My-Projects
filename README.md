@@ -1,2 +1,2 @@
 # My-Projects
-My C++ projects
+My C++ and Object Oriented Programming projects
